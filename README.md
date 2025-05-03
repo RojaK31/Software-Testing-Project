@@ -14,7 +14,6 @@ A comprehensive manual testing project repository that includes a formal **Test 
 - [Test Strategy](#test-strategy)
 - [Test Plan](#test-plan)
 - [Test Cases](#test-cases)
-- [How to Use](#how-to-use)
 - [Technologies & Tools](#technologies--tools)
 - [Contributing](#contributing)
 - [Contact](#contact)
