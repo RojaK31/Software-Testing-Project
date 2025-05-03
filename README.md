@@ -104,20 +104,14 @@ We welcome contributions to improve this project.
 To contribute:
 
 
-Fork the repository
+1.Fork the repository
 
 
-Create a new branch:
-
-bash
-
-Copy
-
-Edit
+2.Create a new branch:
 
 git checkout -b feature/your-change
 
-Commit your changes and open a pull request
+3.Commit your changes and open a pull request
 
 ---
 **📫 Contact**
