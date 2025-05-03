@@ -34,4 +34,87 @@ This project aims to establish a standardized manual testing framework to valida
 
 ---
 
-## 🗂
+---
+
+## 🧭 Test Strategy
+
+📄 **Location:** `/Test_Strategy/TestStrategy.md`
+
+Outlines the overall testing approach, including:
+
+- Test levels (Unit, Integration, System, Acceptance)
+- Testing types (Functional, UI, Regression, etc.)
+- Testing techniques and tools
+- Risk-based testing focus
+
+---
+
+## 📝 Test Plan
+
+📄 **Location:** `/Test_Plan/TestPlan_Document.pdf`
+
+Defines the manual testing strategy and execution details:
+
+- Scope and objectives
+- Test environment setup
+- Entry and exit criteria
+- Roles and responsibilities
+- Deliverables and schedules
+- Risk analysis
+
+---
+
+## ✅ Test Cases
+
+📂 **Location:** `/Test_Cases/`
+
+Test cases are organized by category and provide:
+
+- Test Case ID
+- Description
+- Preconditions
+- Test Steps
+- Expected Result
+- Actual Result
+- Status (Pass/Fail)
+
+**Included Categories:**
+- Functional
+- UI
+- Regression
+- Smoke
+
+🧰 Technologies & Tools
+Google Sheets / Excel – For managing test cases
+
+Markdown – For documentation (strategy, bug reports)
+
+PDF – For formal planning documents
+
+Git / GitHub – For version control and collaboration
+
+🤝 Contributing
+We welcome contributions to improve this project.
+
+To contribute:
+
+Fork the repository
+
+Create a new branch:
+
+bash
+Copy
+Edit
+git checkout -b feature/your-change
+Commit your changes and open a pull request
+
+📫 Contact
+Roja K
+
+Email:k.rojagomathyaiswarya@gmail.com
+
+GitHub: yourusername
+
+
+
+
