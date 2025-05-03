@@ -50,7 +50,7 @@ Outlines the overall testing approach, including:
 
 ## 📝 Test Plan
 
-📄 **Location:** `/Test_Plan/TestPlan_Document.pdf`
+📄 **Location:** `TestPlan-Template.docx`
 
 Defines the manual testing strategy and execution details:
 
