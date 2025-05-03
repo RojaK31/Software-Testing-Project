@@ -87,7 +87,6 @@ Test cases are organized by category and provide:
 
 **🧰 Technologies & Tools**
 
----
 Google Sheets / Excel – For managing test cases
 
 Markdown – For documentation (strategy, bug reports)
@@ -99,8 +98,6 @@ Git / GitHub – For version control and collaboration
 ---
 
 **🤝 Contributing**
-
----
 
 We welcome contributions to improve this project.
 
